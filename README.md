@@ -44,3 +44,7 @@ Trang này tập trung làm rõ mối quan hệ giữa hành vi khách hàng the
 ## 6. Hướng dẫn sử dụng tài nguyên trong Repo
 * Bạn có thể tải file `.pbix` gốc về máy máy cá nhân.
 * Mở bằng **Power BI Desktop** để xem chi tiết cấu trúc bảng dữ liệu (Data Model) và các công thức tính DAX được sử dụng trong dự án.
+
+## 7. Tải File Nguồn Dự Án
+Vì dung lượng file Power BI (`.pbix`) vượt quá giới hạn của GitHub, bạn có thể tải file gốc cấu trúc dữ liệu và công thức DAX tại đây:
+[Tải file H&M_Retail_Analysis.pbix tại đây](https://drive.google.com/drive/folders/1AJkUCZzDpg1_H_Zqg1nIj_SbOa9eYvzG?usp=sharing)
