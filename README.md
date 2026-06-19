@@ -19,12 +19,12 @@ Trang này hỗ trợ giám sát hiệu quả vận hành tổng thể, cơ cấ
 * **Total Transactions:** 11 triệu
 * **Contribution:** 100% (Hỗ trợ tương tác cập nhật tự động theo phân khúc)
 
-![H&M Overview Dashboard](images/overview.png)
+![H&M Overview Dashboard](HM-Retail-Analytics-PowerBI/overview.png)
 
 ### Trang 2: Dashboard Insights (Hành vi khách hàng & Xu hướng)
 Trang này tập trung làm rõ mối quan hệ giữa hành vi khách hàng theo độ tuổi, trạng thái thành viên và xu hướng thị hiếu thẩm mỹ đối với sản phẩm.
 
-![H&M Insights Dashboard](images/insights.png)
+![H&M Insights Dashboard](HM-Retail-Analytics-PowerBI/insights.png)
 
 
 ## 4. Các Insight Kinh Doanh Trọng Yếu Rút Ra
