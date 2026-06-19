@@ -24,7 +24,7 @@ Trang này hỗ trợ giám sát hiệu quả vận hành tổng thể, cơ cấ
 ### Trang 2: Dashboard Insights (Hành vi khách hàng & Xu hướng)
 Trang này tập trung làm rõ mối quan hệ giữa hành vi khách hàng theo độ tuổi, trạng thái thành viên và xu hướng thị hiếu thẩm mỹ đối với sản phẩm.
 
-![H&M Insights Dashboard](HM-Retail-Analytics-PowerBI/insights.png)
+![H&M Insights Dashboard](HM-Retail-Analytics-PowerBI/insight.png)
 
 
 ## 4. Các Insight Kinh Doanh Trọng Yếu Rút Ra
