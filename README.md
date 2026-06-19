@@ -1,4 +1,4 @@
-# H&M Retail Analytics Dashboard (Data 2020)
+# H&M Sales & Product Performance Dashboard (Data 2020)
 
 ## 1. Project Overview & Objectives
 This project constructs a multi-dimensional analysis of customer behavior and business performance for H&M in 2020, utilizing a dataset of over 11 million transactions. The dashboard translates operational data into strategic insights, focusing on revenue optimization, the role of personalization, and fashion product portfolio management.
