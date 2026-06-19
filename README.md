@@ -43,5 +43,4 @@ This page highlights the relationships between customer age, membership status, 
 Due to GitHub's file size limits, you can access the full source structure and DAX formulas here:
 [Download H&M_Retail_Analysis.pbix via Google Drive](https://drive.google.com/drive/folders/1AJkUCZzDpg1_H_Zqg1nIj_SbOa9eYvzG?usp=sharing).
 
----
 *Feel free to reach out via [truongxuan2834@gmail.com](mailto:truongxuan2834@gmail.com)  for any discussion regarding this project.*
